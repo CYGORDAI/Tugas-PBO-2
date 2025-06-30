@@ -1,4 +1,4 @@
-# Sultan Nurfalah
+# Septian adiwiguna
 # TI23H
 class BankAccount:
   def __init__(self, owner_name, balance):
