@@ -1,4 +1,4 @@
-# Sultan Nurfalah
+# Septian adiwiguna
 # TI23H
 class CartItem:
     def __init__(self, item_name, price, quantity=1):
