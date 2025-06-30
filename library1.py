@@ -1,4 +1,4 @@
-# Sultan Nurfalah
+# Septian adiwiguna
 # TI23H
 class Book:
     def __init__(self, title, author, ISBN, available=True):
